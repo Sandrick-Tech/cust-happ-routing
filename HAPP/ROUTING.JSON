@@ -12,7 +12,7 @@
   "DomesticDNSIP": "77.88.8.8",
   "Geositeurl": "https://cdn.jsdelivr.net/gh/Sandrick-Tech/cust-happ-routing@main/release/geosite.dat",
   "Geoipurl": "https://cdn.jsdelivr.net/gh/Sandrick-Tech/cust-happ-routing@main/release/geoip.dat",
-  "LastUpdated": "1790771944",
+  "LastUpdated": "1790772124",
   "DnsHosts": {
     "lkfl2.nalog.ru": "213.24.64.175",
     "lknpd.nalog.ru": "213.24.64.181"
@@ -23,6 +23,7 @@
     "geosite:russia-inside",
     "geosite:category-ru",
     "geosite:whitelist",
+    "geosite:microsoft",
     "geosite:apple",
     "geosite:epicgames",
     "geosite:riot",
@@ -42,7 +43,6 @@
     "geosite:github",
     "geosite:twitch-ads",
     "geosite:youtube",
-    "geosite:microsoft",
     "geosite:telegram"
   ],
   "ProxyIp": [],
